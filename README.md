@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Rounak! 👋</h1>
-<h3 align="center">Passionate about transforming raw data into actionable insights - .</h3>
+<h3 align="center">Passionate about transforming raw data into actionable insights...</h3>
 
 - 🌱 I’m currently learning **Machine Learning and Data Science**
 
